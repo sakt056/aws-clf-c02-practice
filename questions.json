@@ -1,0 +1,439 @@
+{
+  "title": "TOEIC Reading Practice — Part 5/6/7 Review",
+  "version": "1.0",
+  "provenance": "แบบฝึกหัดที่เขียนขึ้นเอง (self-authored) สำหรับทบทวน TOEIC Reading Part 5/6/7 จำนวน 20 ข้อ (P5=12, P6=4, P7=4) เน้นทบทวนแบบตรงจุดครอบคลุมไวยากรณ์ คำศัพท์ และการอ่านจับใจความ: (1) ตัวเชื่อม — ตามด้วยนาม vs ตามด้วยประโยค, (2) verb form / voice / participle, (3) collocation และคำพ้องสับสน. ไม่ใช่ข้อสอบ TOEIC ทางการ และไม่ใช่การจำลองข้อสอบเต็ม 200 ข้อ; ไม่มีการทำนายคะแนนหรือ scaled score; ไม่มีไฟล์เสียง. คำตอบอ้างอิงจากหลักไวยากรณ์และความหมายภาษาอังกฤษมาตรฐานเท่านั้น ไม่ใช่การคาดเดา",
+  "passages": [
+    {
+      "id": "p6-conference",
+      "title": "Annual Sales Conference — Registration Reminder",
+      "text": "Dear Colleagues,\n\nRegistration for the annual sales conference closes this Friday. All attendees must confirm their participation through the company website. [13], we ask that you also book your hotel room by the same deadline, because rooms at the conference venue are limited.\n\nThe conference will be held at the Grand Harbor Hotel, which [14] a special rate for our company until the end of the month. Last year, many participants [15] their rooms too late and had to stay at a more expensive location.\n\n[16]\n\nIf you have any questions, please contact the events team."
+    },
+    {
+      "id": "p7-riverside",
+      "title": "Notice to Building Tenants",
+      "text": "To all tenants of the Riverside Business Center:\n\nBeginning Monday, November 2, the building's main entrance on Fifth Avenue will be closed for renovation. During this period, all visitors and staff are asked to use the side entrance on Oak Street, which will be open from 7:00 a.m. to 8:00 p.m. Monday through Friday. The building will be closed on weekends until the renovation is finished.\n\nThe work is expected to take approximately six weeks. Delivery drivers should park in the loading area behind the building and call the front desk at extension 204 for assistance.\n\nWe apologize for the inconvenience and thank you for your patience."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "part": 5,
+      "topic": "ตัวเชื่อม: ตามด้วยนาม vs ตามด้วยประโยค (preposition)",
+      "passageId": null,
+      "stem": "Flights were delayed ______ the heavy snowfall at the regional airport.",
+      "options": [
+        "although",
+        "because",
+        "even though",
+        "because of"
+      ],
+      "correct": 3,
+      "rationales": [
+        "'although' เป็น conjunction แสดงความขัดแย้ง และต้องตามด้วย clause (subject + verb) แต่ข้างหลังช่องว่างเป็น noun phrase 'the heavy snowfall...' ไม่มี verb แท้ และความหมาย 'ทั้งที่' ไม่เข้ากับความสัมพันธ์เหตุ-ผล → ผิดทั้งรูปและความหมาย",
+        "'because' เป็น subordinating conjunction ต้องตามด้วย clause เต็ม (subject + verb) แต่ข้างหลังเป็น noun phrase 'the heavy snowfall at the regional airport' → ผิดรูป",
+        "'even though' เป็น conjunction แสดงความขัดแย้ง ต้องตามด้วย clause และความหมายไม่ใช่เหตุผลของ 'delayed' → ผิด",
+        "(ถูกต้อง) 'because of' เป็น preposition ตามด้วย noun phrase 'the heavy snowfall...' ได้พอดี และแสดงเหตุผลว่าทำไมเที่ยวบินถึงล่าช้า"
+      ],
+      "evidence": "ช่องว่างตามด้วยนามวลี 'the heavy snowfall at the regional airport' (ไม่มี verb แท้) จึงต้องใช้ preposition 'because of' ไม่ใช่ conjunction"
+    },
+    {
+      "id": "q2",
+      "part": 5,
+      "topic": "ตัวเชื่อม: ตามด้วยนาม vs ตามด้วยประโยค (conjunction)",
+      "passageId": null,
+      "stem": "The regional office remained open ______ several staff members could not travel to work.",
+      "options": [
+        "because of",
+        "despite",
+        "even though",
+        "in spite of"
+      ],
+      "correct": 2,
+      "rationales": [
+        "'because of' เป็น preposition ต้องตามด้วยนาม แต่ข้างหลังเป็น clause 'several staff members could not travel to work' → ผิดรูป",
+        "'despite' เป็น preposition ต้องตามด้วยนาม ไม่ใช่ clause → ผิดรูป (ถ้าจะใช้ต้อง 'despite the fact that...')",
+        "(ถูกต้อง) 'even though' เป็น conjunction แสดงความขัดแย้ง ตามด้วย clause เต็มได้ → 'สำนักงานยังเปิดแม้ว่าพนักงานหลายคนเดินทางมาทำงานไม่ได้' ถูกทั้งรูปและความหมาย",
+        "'in spite of' เป็น preposition ต้องตามด้วยนาม ไม่ใช่ clause → ผิดรูป"
+      ],
+      "evidence": "ช่องว่างตามด้วย clause เต็ม 'several staff members could not travel to work' จึงต้องใช้ conjunction 'even though' (ขัดแย้ง) ไม่ใช่ preposition"
+    },
+    {
+      "id": "q3",
+      "part": 5,
+      "topic": "ตัวเชื่อม: conjunctive adverb + เครื่องหมายวรรคตอน",
+      "passageId": null,
+      "stem": "The supplier missed the delivery deadline; ______, we had to postpone the product launch.",
+      "options": [
+        "therefore",
+        "however",
+        "moreover",
+        "nevertheless"
+      ],
+      "correct": 0,
+      "rationales": [
+        "(ถูกต้อง) 'therefore' เป็น conjunctive adverb แสดงผลลัพธ์ — มี semicolon ก่อนและ comma หลังครบ 'พลาดเดดไลน์ → ต้องเลื่อนเปิดตัว' เป็นเหตุ-ผลที่ตรง",
+        "'however' แสดงความขัดแย้ง ไม่ใช่ผลลัพธ์ → ผิดความหมาย",
+        "'moreover' แสดงการเพิ่มข้อมูล ไม่ใช่ผลลัพธ์ — 'พลาดเดดไลน์' กับ 'เลื่อนเปิดตัว' เป็นเหตุ-ผลต่อเนื่อง ไม่ใช่การเพิ่มข้อมูล → ผิดความหมาย",
+        "'nevertheless' แสดงความขัดแย้ง ('ถึงอย่างนั้นก็ตาม') — ไม่เข้ากับลำดับเหตุ-ผล → ผิดความหมาย"
+      ],
+      "evidence": "มี semicolon ก่อนช่องว่างและ comma ตามหลัง = ตำแหน่ง conjunctive adverb; ความสัมพันธ์ 'พลาดเดดไลน์ → เลื่อนเปิดตัว' เป็นเหตุ-ผล จึงใช้ 'therefore'"
+    },
+    {
+      "id": "q4",
+      "part": 5,
+      "topic": "ตัวเชื่อม: เหตุ vs ขัดแย้ง (meaning)",
+      "passageId": null,
+      "stem": "______ the software update caused several errors, the IT team rolled back to the previous version.",
+      "options": [
+        "Although",
+        "Because",
+        "Even though",
+        "Despite"
+      ],
+      "correct": 1,
+      "rationales": [
+        "'Although' แสดงความขัดแย้ง ('แม้ว่า') — ถ้าใช้จะกลายเป็น 'แม้ว่าอัปเดตทำให้เกิด error แต่ก็ rollback' ซึ่งขัดกับตรรกะ (เกิด error จึงต้อง rollback) → ผิดความหมาย",
+        "(ถูกต้อง) 'Because' เป็น conjunction แสดงเหตุผล ตามด้วย clause เต็มได้ — 'เพราะอัปเดตทำให้เกิด error ทีมจึง rollback' ถูกทั้งรูปและความหมาย",
+        "'Even though' แสดงความขัดแย้ง → ผิดความหมายเช่นเดียวกับ Although",
+        "'Despite' เป็น preposition ต้องตามด้วยนาม แต่ข้างหลังเป็น clause 'the software update caused...' → ผิดรูป"
+      ],
+      "evidence": "ช่องว่างตามด้วย clause เต็ม 'the software update caused several errors'; ความสัมพันธ์ 'เกิด error → rollback' เป็นเหตุ จึงใช้ 'Because'"
+    },
+    {
+      "id": "q5",
+      "part": 5,
+      "topic": "verb form: passive voice",
+      "passageId": null,
+      "stem": "The new branch office ______ by the regional manager at the end of last month.",
+      "options": [
+        "opened",
+        "was opening",
+        "was opened",
+        "opens"
+      ],
+      "correct": 2,
+      "rationales": [
+        "'opened' อาจเป็น past tense (intransitive เช่น 'the office opened' = เปิดเอง) หรือ past participle — แต่การมี 'by the regional manager' (by-agent) บ่งว่าประธาน 'office' เป็นผู้ถูกกระทำ จึงต้องเป็น passive 'was opened'; การอ่านแบบ active/intransitive 'office opened' ไม่เข้ากับ by-agent → ผิด",
+        "'was opening' เป็น past continuous active — แปลว่า office กำลังเปิด (ตัวเอง) ซึ่งไม่ถูก และ 'by the manager' บ่งผู้กระทำ → ต้องใช้ passive → ผิด",
+        "(ถูกต้อง) 'was opened' เป็น passive (be + past participle) — office ถูกเปิดโดยผู้จัดการ และ 'at the end of last month' บ่งอดีต",
+        "'opens' เป็น present simple — ผิด tense (เหตุการณ์เกิด 'last month' ซึ่งเป็นอดีต)"
+      ],
+      "evidence": "'by the regional manager' เป็น by-agent บ่ง passive voice และ 'at the end of last month' บ่งอดีต → 'was opened'"
+    },
+    {
+      "id": "q6",
+      "part": 5,
+      "topic": "verb form: past participle modifier (passive)",
+      "passageId": null,
+      "stem": "The documents ______ to the client yesterday should be returned with a signature.",
+      "options": [
+        "sent",
+        "sending",
+        "were sent",
+        "have sent"
+      ],
+      "correct": 0,
+      "rationales": [
+        "(ถูกต้อง) 'sent' เป็น past participle ขยาย 'documents' (= which were sent) — เอกสารถูกส่ง (passive) ประโยคมี verb แท้ 'should be returned' อยู่แล้ว จึงใช้ participle ไม่ใช่ finite verb",
+        "'sending' เป็น present participle (active) — 'documents sending' แปลว่าเอกสารกำลังส่ง (ตัวเอง) → ผิดความหมาย",
+        "'were sent' เป็น finite verb (passive) — ซ้ำกับ verb แท้ 'should be returned' และประโยคไม่มีตัวเชื่อมรองรับ clause ที่สอง → ผิด",
+        "'have sent' เป็น finite verb (perfect active) — เอกสารไม่ใช่ผู้ส่ง (ต้องถูกส่ง) และซ้ำ finite verb โดยประโยคไม่มีตัวเชื่อมรองรับ clause ที่สอง → ผิดทั้งความหมายและรูป"
+      ],
+      "evidence": "เอกสารถูกส่ง (passive) ขยาย 'documents'; ประโยคมี verb แท้ 'should be returned' แล้ว จึงใช้ past participle 'sent' ไม่ใช่ finite verb"
+    },
+    {
+      "id": "q7",
+      "part": 5,
+      "topic": "verb form: present participle modifier (active)",
+      "passageId": null,
+      "stem": "Applicants ______ for the position will be contacted within two weeks.",
+      "options": [
+        "apply",
+        "applied",
+        "have applied",
+        "applying"
+      ],
+      "correct": 3,
+      "rationales": [
+        "'apply' เป็น finite verb — ประโยคมี verb แท้ 'will be contacted' อยู่แล้ว และไม่มีตัวเชื่อมรองรับ verb ตัวที่สอง → ผิด",
+        "'applied' เป็น past participle (passive) — 'applicants applied' แปลว่าผู้สมัครถูก 'สมัคร' (โดยใคร?) ผิดความหมาย เพราะผู้สมัครเป็นผู้สมัครเอง (active)",
+        "'have applied' เป็น finite verb (perfect) — ซ้ำกับ verb แท้ 'will be contacted' และไม่มีตัวเชื่อมรองรับ clause ที่สอง → ผิด",
+        "(ถูกต้อง) 'applying' เป็น present participle (active) ขยาย 'applicants' (= who are applying) — ผู้สมัครเป็นผู้กระทำการสมัครเอง"
+      ],
+      "evidence": "ผู้สมัครเป็นผู้สมัครเอง (active) ขยาย 'Applicants'; มี verb แท้ 'will be contacted' แล้ว จึงใช้ present participle 'applying'"
+    },
+    {
+      "id": "q8",
+      "part": 5,
+      "topic": "verb form: past tense vs past participle",
+      "passageId": null,
+      "stem": "The equipment ______ during the inspection has been removed from the warehouse.",
+      "options": [
+        "damaging",
+        "damaged",
+        "was damaged",
+        "damages"
+      ],
+      "correct": 1,
+      "rationales": [
+        "'damaging' เป็น present participle (active) — 'equipment damaging' แปลว่าอุปกรณ์ทำให้เสียหาย (ตัวเองเป็นผู้กระทำ) → ผิดความหมาย (อุปกรณ์ถูกทำให้เสียหาย)",
+        "(ถูกต้อง) 'damaged' เป็น past participle (passive) ขยาย 'equipment' (= which was damaged) — อุปกรณ์ถูกทำให้เสียหายระหว่างการตรวจสอบ; 'has been removed' เป็น verb แท้ของประโยค",
+        "'was damaged' เป็น finite verb (passive) — ซ้ำกับ verb แท้ 'has been removed' และไม่มีตัวเชื่อมรองรับ → ผิด",
+        "'damages' เป็น finite verb (present, บุรุษที่สาม) — ผิด tense และซ้ำ finite verb โดยไม่มีตัวเชื่อมรองรับ clause ที่สอง → ผิด"
+      ],
+      "evidence": "อุปกรณ์ถูกทำให้เสียหาย (passive) ขยาย 'equipment'; มี verb แท้ 'has been removed' แล้ว จึงใช้ past participle 'damaged'"
+    },
+    {
+      "id": "q9",
+      "part": 5,
+      "topic": "collocation: responsible for",
+      "passageId": null,
+      "stem": "The project manager is responsible ______ coordinating the work of three departments.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "on"
+      ],
+      "correct": 2,
+      "rationales": [
+        "'responsible to' ใช้กับบุคคล/ผู้มีอำนาจ (เช่น responsible to the board) ไม่ใช่กับ gerund 'coordinating' → ผิด",
+        "ไม่มี collocation 'responsible with' → ผิด",
+        "(ถูกต้อง) 'responsible for + -ing/noun' = รับผิดชอบการทำสิ่งใดสิ่งหนึ่ง ตรงกับ 'coordinating the work'",
+        "ไม่มี collocation 'responsible on' → ผิด"
+      ],
+      "evidence": "collocation คงที่ 'responsible for + -ing' ตามด้วย gerund 'coordinating the work'"
+    },
+    {
+      "id": "q10",
+      "part": 5,
+      "topic": "verb + that-clause: ensure / assure / reassure / achieve",
+      "passageId": null,
+      "stem": "Please ______ that all invoices are submitted before the end of the month.",
+      "options": [
+        "ensure",
+        "assure",
+        "achieve",
+        "reassure"
+      ],
+      "correct": 0,
+      "rationales": [
+        "(ถูกต้อง) 'ensure that + clause' = ทำให้แน่ใจว่า... ใช้กับเหตุการณ์/ผลลัพธ์ ตรงกับโครงสร้าง 'that all invoices are submitted'",
+        "'assure' = บอกให้มั่นใจ/รับประกัน (กับบุคคล) — ต้องใช้ 'assure someone that...' มีคนเป็นกรรม ไม่เข้ากับ 'that all invoices' → ผิด",
+        "'achieve' = บรรลุ/ทำสำเร็จ ต้องมีกรรมเป็นนามหรือ noun phrase (เช่น achieve a goal) ไม่ใช้ 'achieve that + clause' และความหมายไม่เข้ากับการขอให้ 'ทำให้แน่ใจว่าใบแจ้งหนี้ถูกส่ง' → ผิดทั้งรูปและความหมาย",
+        "'reassure' = ปลอบ/ทำให้สบายใจ (กับบุคคล) — ต้องมีคนเป็นกรรม และความหมายไม่เข้ากับบริบท → ผิด"
+      ],
+      "evidence": "โครงสร้าง 'ensure that + clause' = ทำให้แน่ใจว่า; ตามด้วย that-clause 'that all invoices are submitted'"
+    },
+    {
+      "id": "q11",
+      "part": 5,
+      "topic": "คำพ้องสับสน: affect / effect",
+      "passageId": null,
+      "stem": "The recent policy change will ______ every employee in the sales division.",
+      "options": [
+        "effect",
+        "effective",
+        "affecting",
+        "affect"
+      ],
+      "correct": 3,
+      "rationales": [
+        "'effect' เป็น noun (ผลกระทบ) หรือ verb (ทำให้เกิด = bring about) — ความหมาย 'effect every employee' ไม่ถูก (effect เป็น verb แปลว่า ทำให้เกิด ไม่ใช่ กระทบ) → ผิด",
+        "'effective' เป็น adjective — ตำแหน่งหลัง 'will' ต้องใช้ verb → ผิด",
+        "'affecting' เป็น participle — 'will affecting' ไม่ถูกหลักไวยากรณ์ (ต้อง 'will affect' หรือ 'will be affecting') → ผิดรูป",
+        "(ถูกต้อง) 'affect' เป็น verb = กระทบ/ส่งผลต่อ — 'will affect every employee' ถูกทั้งรูปและความหมาย"
+      ],
+      "evidence": "'will' ต้องตามด้วย verb รูป base; ความหมาย 'กระทบ/ส่งผลต่อ' → 'affect' (verb) ไม่ใช่ 'effect'"
+    },
+    {
+      "id": "q12",
+      "part": 5,
+      "topic": "collocation: regardless of",
+      "passageId": null,
+      "stem": "______ of the final decision, all team members will be notified by email.",
+      "options": [
+        "Despite",
+        "Regardless",
+        "Although",
+        "Besides"
+      ],
+      "correct": 1,
+      "rationales": [
+        "'Despite' เป็น preposition แปลว่า 'ทั้งที่' แต่ไม่ใช้ 'despite of' (รูปถูกคือ 'despite the decision') → ผิดรูป",
+        "(ถูกต้อง) 'Regardless of + noun' = ไม่ว่าผลจะออกมาอย่างไร ตรงกับ 'of the final decision'",
+        "'Although' เป็น conjunction ต้องตามด้วย clause ไม่ใช่ 'of the final decision' → ผิดรูป",
+        "'Besides' = นอกจากนี้/อีกทั้ง แต่ไม่ใช้ 'besides of' (รูปถูกคือ 'besides the decision') → ผิดรูป"
+      ],
+      "evidence": "collocation คงที่ 'regardless of + noun' = ไม่ว่า...; ตามด้วย 'of the final decision'"
+    },
+    {
+      "id": "q13",
+      "part": 6,
+      "topic": "ตัวเชื่อม: transition word (การเพิ่มข้อมูล)",
+      "passageId": "p6-conference",
+      "stem": "All attendees must confirm their participation through the company website. ______, we ask that you also book your hotel room by the same deadline, because rooms at the conference venue are limited.",
+      "options": [
+        "However",
+        "Consequently",
+        "For example",
+        "In addition"
+      ],
+      "correct": 3,
+      "rationales": [
+        "'However' แสดงความขัดแย้ง — ระหว่าง 'ยืนยันผ่านเว็บ' กับ 'จองห้อง' ไม่มีความขัดแย้ง แต่เป็นการเพิ่มข้อกำหนด → ผิดความหมาย",
+        "'Consequently' แสดงผลลัพธ์ — 'การขอให้จองห้อง' ไม่ใช่ผลลัพธ์ของ 'การยืนยันผ่านเว็บ' → ผิด",
+        "'For example' แนะนำตัวอย่าง — ประโยคที่ตามมาไม่ใช่ตัวอย่างของการยืนยันผ่านเว็บ → ผิด",
+        "(ถูกต้อง) 'In addition' เชื่อมข้อกำหนดที่สองเพิ่มจากข้อแรก ('นอกจากนี้') — 'ต้องยืนยัน... นอกจากนี้ยังต้องจองห้อง' ตรงกับบริบท"
+      ],
+      "evidence": "คำว่า 'also' ในประโยคที่ตามหลังช่องว่างบ่งการเพิ่มข้อกำหนด ทำให้ 'In addition' (นอกจากนี้) สอดคล้องกับความหมายมากกว่า 'However' (ขัดแย้ง) หรือ 'Consequently' (ผลลัพธ์)"
+    },
+    {
+      "id": "q14",
+      "part": 6,
+      "topic": "verb form: active vs passive voice",
+      "passageId": "p6-conference",
+      "stem": "The conference will be held at the Grand Harbor Hotel, which ______ a special rate for our company until the end of the month.",
+      "options": [
+        "is offered",
+        "offering",
+        "offers",
+        "offer"
+      ],
+      "correct": 2,
+      "rationales": [
+        "'is offered' เป็น passive — 'the hotel is offered a rate' แปลว่าโรงแรมถูกเสนอราคา (โดยใคร?) ผิดความหมาย เพราะโรงแรมเป็นผู้เสนอราคาให้ (active) → ผิด",
+        "'offering' เป็น participle — 'which' ต้องตามด้วย finite verb 'which offering' ไม่ครบประโยค → ผิดรูป",
+        "(ถูกต้อง) 'offers' เป็น present simple active — โรงแรม (ซึ่ง) เสนอราคาพิเศษ และ present tense เข้ากับช่วงเวลา 'until the end of the month' (ปัจจุบัน-อนาคต)",
+        "'offer' เป็น base form (ไม่เติม -s) — ประธานของ relative clause 'which' อ้างถึง 'the hotel' (เอกพจน์) จึงต้องเป็นบุรุษที่สาม 'offers'; 'which offer' ผิด subject-verb agreement → ผิด"
+      ],
+      "evidence": "วลี 'until the end of the month' บ่งช่วงเวลาปัจจุบัน-อนาคต จึงใช้ present simple; ประธาน 'which' อ้างถึง 'the hotel' (เอกพจน์) จึงต้องเป็น 'offers' (บุรุษที่สาม); และ 'the hotel' เป็นผู้เสนอราคา (active voice) ไม่ใช่ผู้ถูกเสนอ"
+    },
+    {
+      "id": "q15",
+      "part": 6,
+      "topic": "verb form: past tense vs passive",
+      "passageId": "p6-conference",
+      "stem": "Last year, many participants ______ their rooms too late and had to stay at a more expensive location.",
+      "options": [
+        "booked",
+        "book",
+        "were booked",
+        "booking"
+      ],
+      "correct": 0,
+      "rationales": [
+        "(ถูกต้อง) 'booked' เป็น simple past active — 'Last year' บ่งอดีต และ participants เป็นผู้จองห้องเอง (active)",
+        "'book' เป็น present simple — ผิด tense ('Last year' = อดีต)",
+        "'were booked' เป็น passive — 'participants were booked' แปลว่าผู้เข้าร่วมถูกจอง (โดยใคร?) และ 'their rooms' ตามหลัง passive ใช้ไม่ได้ → ผิด",
+        "'booking' เป็น participle — clause ขาด finite verb ('participants booking too late' ไม่ครบประโยค) → ผิดรูป"
+      ],
+      "evidence": "'Last year' บ่งอดีต และ 'participants' เป็นผู้กระทำการจองเอง (active) จึงใช้ simple past 'booked'; passive 'were booked' ไม่เข้าเพราะผู้เข้าร่วมเป็นผู้จอง ไม่ใช่ถูกจอง"
+    },
+    {
+      "id": "q16",
+      "part": 6,
+      "topic": "sentence insertion: ความต่อเนื่องของเนื้อหา",
+      "passageId": "p6-conference",
+      "stem": "Choose the sentence that best completes the passage at [16].",
+      "options": [
+        "We apologize for any inconvenience this may cause.",
+        "To avoid this problem this year, please complete both registrations as early as possible.",
+        "The hotel is located near the airport and offers free parking.",
+        "Attendance at the conference is mandatory for all sales staff."
+      ],
+      "correct": 1,
+      "rationales": [
+        "'We apologize...' — บริบทไม่มีการกล่าวถึงความไม่สะดวกที่ต้องขอโทษ (อีเมลนี้เป็นการแจ้ง/เตือน ไม่ใช่การขอโทษ) → ไม่เข้ากับบริบท",
+        "(ถูกต้อง) 'To avoid this problem this year...' — เชื่อมกับประโยคก่อนหน้าที่เล่าปัญหาปีที่แล้ว ('booked too late') และให้คำแนะนำก่อนจบอีเมล (ก่อน 'If you have any questions') → ต่อเนื่องทั้งความหมายและโครงสร้าง",
+        "'The hotel is located near the airport...' — ข้อมูลที่อยู่โรงแรมเป็นเรื่องใหม่ ไม่เกี่ยวกับปัญหาการจองห้องช้า และขัดจังหวะการไหลของเนื้อหา → ไม่เข้า",
+        "'Attendance is mandatory...' — ข้อมูลใหม่ (การบังคับเข้าร่วม) ไม่ได้เชื่อมกับ 'Last year...' และไม่เข้ากับตำแหน่งก่อนประโยคปิดท้าย → ไม่เข้า"
+      ],
+      "evidence": "ประโยคก่อนหน้า [16] เล่าปัญหา 'many participants booked their rooms too late and had to stay at a more expensive location'; ประโยค B ชี้กลับไปที่ 'this problem' และให้คำแนะนำ ซึ่งต่อเข้ากับประโยคปิด 'If you have any questions...' ได้อย่างเป็นธรรมชาติ"
+    },
+    {
+      "id": "q17",
+      "part": 7,
+      "topic": "comprehension: main purpose",
+      "passageId": "p7-riverside",
+      "stem": "What is the main purpose of this notice?",
+      "options": [
+        "To invite tenants to a renovation planning meeting",
+        "To announce the opening of a new building entrance",
+        "To advertise office space at the Riverside Business Center",
+        "To inform tenants about changes during the building renovation"
+      ],
+      "correct": 3,
+      "rationales": [
+        "ประกาศไม่ได้เชิญประชุมวางแผนใด ๆ → ไม่มีในเนื้อหา",
+        "ประกาศแจ้งการปิดทางเข้าหลักและให้ใช้ทางเข้าข้างแทน ไม่ใช่การเปิดทางเข้าใหม่ → ผิด",
+        "ไม่มีการเสนอเช่าหรือโฆษณาพื้นที่สำนักงาน → ผิด",
+        "(ถูกต้อง) ประกาศทั้งฉบับแจ้งการปิดทางเข้าหลัก ทางเข้าที่ต้องใช้แทน และช่วงเวลาเปิดปิด → ใจความรวมคือแจ้งการเปลี่ยนแปลงระหว่างปรับปรุงอาคาร"
+      ],
+      "evidence": "ทั้งฉบับกล่าวถึงการปิด main entrance เพื่อ renovation, ทางเข้าที่ใช้แทน, วัน-เวลาเปิด และระยะเวลา — วัตถุประสงค์รวมคือแจ้งการเปลี่ยนแปลงชั่วคราวให้ผู้เช่ารับทราบ"
+    },
+    {
+      "id": "q18",
+      "part": 7,
+      "topic": "comprehension: detail (delivery drivers)",
+      "passageId": "p7-riverside",
+      "stem": "According to the notice, what should delivery drivers do?",
+      "options": [
+        "Use the main entrance on Fifth Avenue",
+        "Contact the building manager in advance",
+        "Park in the loading area and call the front desk",
+        "Wait outside the side entrance"
+      ],
+      "correct": 2,
+      "rationales": [
+        "ทางเข้าหลักปิดเพื่อปรับปรุง → ใช้ไม่ได้ และขัดกับเนื้อหา",
+        "เนื้อหาไม่มีคำสั่งให้ติดต่อผู้จัดการอาคารล่วงหน้า → ไม่มีในเนื้อหา",
+        "(ถูกต้อง) ระบุตรงตัวว่า 'Delivery drivers should park in the loading area behind the building and call the front desk at extension 204'",
+        "ไม่มีข้อความให้รอข้างนอกทางเข้าข้าง → ไม่มีในเนื้อหา"
+      ],
+      "evidence": "ข้อความระบุตรง: 'Delivery drivers should park in the loading area behind the building and call the front desk at extension 204 for assistance'"
+    },
+    {
+      "id": "q19",
+      "part": 7,
+      "topic": "comprehension: detail (duration)",
+      "passageId": "p7-riverside",
+      "stem": "How long is the renovation work expected to take?",
+      "options": [
+        "About two weeks",
+        "About six weeks",
+        "About one month",
+        "About six months"
+      ],
+      "correct": 1,
+      "rationales": [
+        "เนื้อหาระบุ 'approximately six weeks' ไม่ใช่สองสัปดาห์ → ผิด",
+        "(ถูกต้อง) ระบุตรง: 'The work is expected to take approximately six weeks'",
+        "หนึ่งเดือนไม่ตรงกับ 'six weeks' → ผิด",
+        "สับสน 'six weeks' กับ 'six months' → ผิด"
+      ],
+      "evidence": "ข้อความระบุตรง: 'The work is expected to take approximately six weeks'"
+    },
+    {
+      "id": "q20",
+      "part": 7,
+      "topic": "comprehension: true statement",
+      "passageId": "p7-riverside",
+      "stem": "Which of the following is TRUE according to the notice?",
+      "options": [
+        "Visitors are asked to use the side entrance during weekdays",
+        "The building will be open on weekends with reduced hours",
+        "The main entrance will remain open during the renovation",
+        "The renovation will begin in December"
+      ],
+      "correct": 0,
+      "rationales": [
+        "(ถูกต้อง) สอดคล้องกับเนื้อหา: 'all visitors and staff are asked to use the side entrance on Oak Street' ซึ่งเปิด 'Monday through Friday'",
+        "ระบุว่า 'The building will be closed on weekends' → ขัดกับเนื้อหา",
+        "ระบุว่า 'the building's main entrance... will be closed for renovation' → ขัดกับเนื้อหา",
+        "ระบุว่า 'Beginning Monday, November 2' ไม่ใช่เดือนธันวาคม → ผิด"
+      ],
+      "evidence": "ข้อ A สอดคล้องกับ 'all visitors and staff are asked to use the side entrance on Oak Street, which will be open... Monday through Friday'; ข้อ B, C, D ขัดกับข้อความโดยตรง"
+    }
+  ]
+}
